@@ -1,0 +1,22 @@
+{
+  "name": "@moh-tayyab0342/id-card-project12",
+  "version": "2.01.0",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tayyab",
+  "license": "MIT",
+  "description": "The ID Card project uses TypeScript, Inquirer, Node.js, and Chalk to create customizable ID cards.",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
